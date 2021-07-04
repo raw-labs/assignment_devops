@@ -1,4 +1,5 @@
 # RAW Labs DevOps Assignment
+![RAW Cube](https://raw-labs.com/wp-content/themes/raw-labs/img/cube.svg)
 
 ## Introduction
 This repository holds the RAW Labs DevOps assignment. In this project you will find a folder that holds a microservice, supplied with a Dockerfile.
