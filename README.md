@@ -9,7 +9,7 @@ Simple RAW service is well... a simple stateless service that serves a simple HT
 This service is a NodeJS app. As such, it manages its dependencies in a package.json file, `npm install` installs the dependencies in a folder called `node_modules`. Unit tests can be executed by running `npm test`.
 
 ## The assignment
-The requirement is to incorporate a proper CI/CD methodology. We suggest GitLab with GitLab runner since it is what we use in production. You can create a free account at [https://gitlab.com/](https://gitlab.com/).
+The requirement is to incorporate a proper CI/CD methodology. You may use GitLab with GitLab runner. You can create a free account at [https://gitlab.com/](https://gitlab.com/).
 
 Addtional requirements include the following:
 - [ ] Test should be run on the pipeline and it should not be able to proceed if it fails
