@@ -17,9 +17,3 @@ Then open your browser and go to `http://localhost:3000`. Available operations i
 <tr><td style="font-style: italic">/metrics/</td><td>Summary of successful VS failed invocations</td></tr>
 </tbody>
 </table>
-
-
-Building docker container for this app is easy, run this following command and you're done:
-```
-docker build --tag raw_simple_ws:<version> .
-```
