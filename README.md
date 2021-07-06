@@ -10,9 +10,9 @@ Simple RAW service is well... a simple stateless service that serves a simple HT
 This service is a NodeJS app. As such, it manages its dependencies in a package.json file, `npm install` installs the dependencies in a folder called `node_modules`. Unit tests can be executed by running `npm test`.
 
 ## The assignment
-The requirement is to incorporate a proper CI/CD methodology and produce the associted manifests. You may use the solution of your choice (Gitlab, Github Actions, ...)
+The requirement is to incorporate a proper CI/CD methodology and produce the associated manifests. You may use the solution of your choice (Gitlab, Github Actions, etc.)
 
-Addtional requirements include the following:
+Additional requirements include the following:
 - [ ] The app should be deployed to a Kubernetes cluster
 - [ ] Multiple feature branches should be able to live alongside each other in the cluster
 - [ ] Infrastructure as Code handling monitoring
