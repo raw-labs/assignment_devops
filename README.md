@@ -15,7 +15,8 @@ The requirement is to incorporate a proper CI/CD methodology and produce the ass
 Addtional requirements include the following:
 - [ ] The app should be deployed to a Kubernetes cluster
 - [ ] Multiple feature branches should be able to live alongside each other in the cluster
-- [ ] Infrastructure as Code handling basic monitoring
+- [ ] Infrastructure as Code handling monitoring
+- [ ] Gather metrics and implement alerting for failed requests
 
 Upon successful execution, you will present your process, technical decisions and outcome to us.
 
