@@ -21,6 +21,6 @@ Additional notes:
 Upon successful execution, you will present your process, technical decisions and outcome to us. 
 
 ## Questions
-If you have any questions about the assignment, feel free to contact us at <a href='mailto:pavlos@raw-labs.com'>pavlos@raw-labs.com</a> and <a href='mailto:yann@raw-labs.com'>yann@raw-labs.com</a> (basically you're strongly encouraged to do so).
+If you have any questions about the assignment, feel free to contact us at <a href='mailto:pavlos@raw-labs.com'>pavlos@raw-labs.com</a> and <a href='mailto:dimitris@raw-labs.com'>dimitris@raw-labs.com</a> (basically you're strongly encouraged to do so).
 
 Good luck!
